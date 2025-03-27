@@ -229,13 +229,13 @@ h2.slogan{
 	margin: 0 0 81px;
 }
 .box_timeline_holder{
-	background: url(../images/bg_timeline_l.png) no-repeat 0 70px;
+	background: url(../images/bg_timeline_l.png) no-repeat 0 90px;
 	position: relative;
 	padding: 0 0 0 100px;
 	overflow: hidden;
 }
 .box_timeline{
-	background: url(../images/bg_timeline_r.png) no-repeat 100% 70px;
+	background: url(../images/bg_timeline_r.png) no-repeat 100% 90px;
 	position: relative;
 	padding: 0 100px 0 0;
 	overflow: hidden;
@@ -295,7 +295,7 @@ h2.slogan{
 	margin: 0 0 40px;
 }
 .skills_holder .column {
-	width: 470px;
+	width: 705px;
 	float: left;
 	margin: 0 10px 0 0;
 }
@@ -327,14 +327,13 @@ h2.slogan{
 	font-size: 18px;
 	padding: 0 0 0 20px;
 }
-.progress li span.photoshop{width: 100%;}
-.progress li span.illustrator{width: 70%;}
-.progress li span.indesign{width: 40%;}
-.progress li span.flash{width: 80%;}
-.progress li span.html{width: 75%;}
-.progress li span.wordpress{width: 85%;}
-.progress li span.jquery{width: 70%;}
-.progress li span.seo{width: 40%;}
+.progress li span.VBA{width: 100%;}
+.progress li span.SQL{width: 100%;}
+.progress li span.R{width: 60%;}
+.progress li span.Node-RED{width: 100%;}
+.progress li span.HTML{width: 60%;}
+.progress li span.Javascript{width: 75%;}
+.progress li span.Excel{width: 90%;}
 .plagin_list{
 	width: 100%;
 	overflow: hidden;
