@@ -229,15 +229,15 @@ h2.slogan{
 	margin: 0 0 81px;
 }
 .box_timeline_holder{
-	background: url(../images/bg_timeline_l.png) no-repeat 0 90px;
+	background: url(../images/bg_timeline_l.png) no-repeat 0 70px;
 	position: relative;
-	padding: 0 0 0 100px;
+	padding: 0 0 0 50px;
 	overflow: hidden;
 }
 .box_timeline{
-	background: url(../images/bg_timeline_r.png) no-repeat 100% 90px;
+	background: url(../images/bg_timeline_r.png) no-repeat 100% 70px;
 	position: relative;
-	padding: 0 100px 0 0;
+	padding: 0 10px 0 0;
 	overflow: hidden;
 }
 .box_timeline ul{
@@ -248,7 +248,7 @@ h2.slogan{
 .box_timeline ul li{
 	float:left;
 	width: 170px;
-	margin: 0 0 0 30px;
+	margin: 0 0 0 10px;
 	background: url(../images/bg_ul.gif) repeat-x 0 76px;
 }
 .box_timeline ul li:first-child{margin: 0;}
@@ -300,7 +300,7 @@ h2.slogan{
 	margin: 0 10px 0 0;
 }
 .skills_holder .column.column-add {
-	float: right;
+	float: left;
 	margin: 0;
 }
 .progress{
@@ -332,6 +332,7 @@ h2.slogan{
 .progress li span.R{width: 60%;}
 .progress li span.Node-RED{width: 100%;}
 .progress li span.HTML{width: 60%;}
+.progress li span.Python{width: 60%;}
 .progress li span.Javascript{width: 75%;}
 .progress li span.Excel{width: 90%;}
 .plagin_list{
